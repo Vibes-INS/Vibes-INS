@@ -14,6 +14,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-25675d?style=flat-square&logo=puppeteer&logoColor=white" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-3b82f6?style=flat-square&logo=Tailwindcss&logoColor=white" />
   <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-624de8?style=flat-square&logo=WebAssembly&logoColor=white" />
   <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
