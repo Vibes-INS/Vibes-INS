@@ -1,3 +1,9 @@
+<div align="center">
+
+<img alt="INS Avatar" src="https://avatars.githubusercontent.com/u/33676809?s=400&v=4" width=100 />
+
+# Hi, I'm INS
+
 ### Hi there 👋
 
 **Language and Tools**
@@ -41,3 +47,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
