@@ -4,8 +4,6 @@
 
 # Hi, I'm INS
 
-### Hi there 👋
-
 **Language and Tools**
 
 <p>
