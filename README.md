@@ -11,6 +11,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="NodeJs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-383838?style=flat-square&logo=Solidity&logoColor=white" />
 </p>
 
 <p>
