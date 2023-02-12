@@ -34,7 +34,7 @@
   <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-f29111?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Web3" src="https://img.shields.io/badge/-Web3.js-818286?style=flat-square&logo=web3.js&logoColor=ef682f" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-prisma-rgb(76, 81, 191)?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-rgb(76, 81, 191)?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 <p>
