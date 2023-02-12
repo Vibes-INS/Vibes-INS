@@ -30,7 +30,11 @@
   <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-624de8?style=flat-square&logo=WebAssembly&logoColor=white" />
   <img alt="ChakraUI" src="https://img.shields.io/badge/-ChakraUI-61c8c8?style=flat-square&logo=ChakraUI&logoColor=white">
   <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Sqlite" src="https://img.shields.io/badge/-Sqlite-6db6e4?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-f29111?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Web3" src="https://img.shields.io/badge/-Web3.js-818286?style=flat-square&logo=web3.js&logoColor=ef682f" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-prisma-rgb(76, 81, 191)?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 <p>
