@@ -45,7 +45,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-fff?style=flat&logo=vercel&logoColor=black" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Vibes-INS/Vibes-INS/output/github-snake.svg" />
+<!-- <img src="https://raw.githubusercontent.com/Vibes-INS/Vibes-INS/output/github-snake.svg" /> -->
 <!--
 **Vibes-INS/Vibes-INS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
