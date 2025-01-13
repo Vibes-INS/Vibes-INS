@@ -1,11 +1,5 @@
 <div align="center">
 
-<img alt="INS Avatar" src="https://avatars.githubusercontent.com/u/33676809?s=400&v=4" width=100 />
-
-# Hi, I'm INS
-
-**Language and Tools**
-
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=javascript&logoColor=black" />
